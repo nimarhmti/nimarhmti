@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)]
+![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
 <h1 align="center">Hi 👋, I'm nimarahmati</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nimarhmti" target="blank"><img src="https://img.shields.io/twitter/follow/nimarhmti?logo=twitter&style=for-the-badge" alt="nimarhmti" /></a> </p>
 
-- 🌱 I’m currently learning **microfrontend**
+- 🌱 I’m currently learning **micro frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nimarhmti](https://github.com/nimarhmti)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QO1H5TKoWh-Bh_KBi58lv1IR39i99RWn/view?usp=sharing](https://drive.google.com/file/d/1QO1H5TKoWh-Bh_KBi58lv1IR39i99RWn/view?usp=sharing)
 
-- ⚡ Fun fact **I realy like new journey and travel**
+- ⚡ Fun fact **I really like new journeys and travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
